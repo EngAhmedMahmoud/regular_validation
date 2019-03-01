@@ -1,5 +1,5 @@
 # Regular Expression
-A regular expression is a special text for describing a search pattern. Regular expression written between `/Here pattern/`
+A regular expression is a special text for describing a search pattern. Regular expression written between `/Pattern/`
 ## Testing 
 To test matching between pattern text and pattern follow the structure 
 ```javascript
